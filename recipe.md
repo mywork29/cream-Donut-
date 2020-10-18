@@ -1,5 +1,3 @@
-"the recipe is about cream filled doughnuts."
-
 "How To Make Them?
 
 Recipe:
@@ -20,4 +18,4 @@ Recipe:
 14. pour the 4 cups of cold milk into a deep bowl. Add the pudding mix and beat well until blended, about 1 min. Refriirate for 5-8 minutes.
 15. Spoon the pudding into a pastry tube with wide nozzle and fill it into the donuts.
 16. Sift confectioners' sugar over the filled doughnuts.
-17. Keep them refrigerated until serving time."
+17. Keep them refrigerated until serving time." 
